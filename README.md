@@ -16,8 +16,9 @@ Step3: test
 
 ```bash
 checkip 127.0.0.1 108.160.166.9 10.108.250.20
-
+127.0.0.1 is private IP
+108.160.166.9 is NOT private IP
+10.108.250.20 is private IP
 ```
-
 
 
