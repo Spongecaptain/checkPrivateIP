@@ -8,7 +8,7 @@ import (
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("params number shold above 1")
+		fmt.Println("params should be at least one")
 		return
 	}
 	ips := os.Args[1:]
